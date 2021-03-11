@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "270316541607",
+    "project_id": "cttester-10787",
+    "storage_bucket": "cttester-10787.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270316541607:android:4b7adb74099c03ecb5ad82",
+        "android_client_info": {
+          "package_name": "com.sunny.cttester"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "270316541607-ujr39f6c0tbntvhvkf1q63g96prp4pmi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOckubIJ3VbDtKpLprdUujrNL6Moi8UwM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "270316541607-ujr39f6c0tbntvhvkf1q63g96prp4pmi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
